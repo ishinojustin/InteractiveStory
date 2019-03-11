@@ -1,9 +1,12 @@
-package com.justinishino.interactivestory;
+package com.justinishino.interactivestory.ui;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.justinishino.interactivestory.R;
+import com.justinishino.interactivestory.model.Page;
 
 public class StoryActivity extends AppCompatActivity {
 
